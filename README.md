@@ -1,11 +1,11 @@
 # GitHub Profile Search
 
-Search for and display the profile of a GitHub user via JavaScript and API. Inspired by Traversy Media.
+Search for and display the profile of a GitHub user via JavaScript and GitHub API. Inspired by Traversy Media.
 
 
 ## Tech Stack
 
-**Front-End:** HTML, CSS, JavaScript, API
+**Front-End:** HTML, CSS, JavaScript, GitHub API
 
 ## Installation
 
